@@ -100,10 +100,11 @@
 
 .lifestyle-link {
     text-decoration: none;
+    color: #626262;
 }
 
-.lifestyle-link:hover {
-    text-decoration: underline;
+.header-text:hover {
+    color: #03a9f4;
 }
 
 .photodiary-01 {
